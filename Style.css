@@ -1,0 +1,9 @@
+body{background:#0f172a;color:white;font-family:sans-serif}
+.card{
+ background:rgba(255,255,255,0.05);
+ padding:20px;margin:15px;border-radius:20px;
+ backdrop-filter:blur(15px);
+ transition:0.3s;
+}
+.card:hover{transform:scale(1.05)}
+img{border-radius:10px}
